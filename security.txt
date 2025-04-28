@@ -1,0 +1,20 @@
+# Security.txt file for calvinfelineism.org
+# For full details on security practices and vulnerability reporting, please refer to our Security Policy.
+
+Contact: mailto: security@calvinfelineism.org
+Acknowledgments: https://www.calvinfelineism.org/p/hall-of-fame.html
+Policy: https://www.calvinfelineism.org/p/security-policy.html
+Hiring: https://www.calvinfelineism.org/p/career.html
+Preferred-Languages: en
+Canonical: https://calvinfelineism.org/.well-known/security.txt
+Expires: 2025-12-31T23:59:59.000Z
+
+# Disclosure Policy:
+# We encourage the responsible disclosure of security vulnerabilities. If you discover a vulnerability, please report it promptly. We aim to acknowledge receipt of reports within 72 hours and will provide a status update within 5 business days.
+# Please refrain from publicly disclosing any vulnerabilities until we have had an opportunity to investigate and address the issue.
+
+# Scope of Reporting:
+# This policy applies to all services, systems, and applications directly managed and operated by calvinfelineism.org.
+
+# Safe Harbor:
+# Activities conducted in a manner consistent with this policy will be considered authorized conduct, and we will not initiate legal action against security researchers who engage in good faith discovery and reporting.
